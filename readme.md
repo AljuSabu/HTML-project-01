@@ -6,4 +6,4 @@
 
 A simple HTML Project 
 
-[image](./project%20image.png)
+![image](./project%20image.png)
